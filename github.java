@@ -1,6 +1,6 @@
 class github{
     public static void main(String args[]){
-        System.out.println("checking github");
+        System.out.println("it works");
     }
 }
    
