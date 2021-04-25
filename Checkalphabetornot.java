@@ -1,5 +1,3 @@
-import jdk.dynalink.linker.GuardedInvocationTransformer;
-
 public class Checkalphabetornot {
     public static void main(String args[])
     {
