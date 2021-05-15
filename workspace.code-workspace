@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/corejava"
+		},
+		{
+			"path": "../../../Downloads/AssignmentSolutions"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			""
+		]
+	}
+}
